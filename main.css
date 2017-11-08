@@ -1,0 +1,27 @@
+.container{
+    background-color: lightblue;
+}
+.jumbotron{
+    
+    background-color:white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+h4{
+    text-align: center;
+}
+footer{
+    background-color: lightgray;
+    margin-top: 20px;
+}
+.partner{
+    
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed gray;
+}
+.logo{
+    align-items: center;
+}
+
+    
